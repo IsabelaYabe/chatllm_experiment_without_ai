@@ -24,6 +24,11 @@ Windows:
 ```bat
 setup.bat
 ```
+ou
+
+``` PowerShell
+.\setup.bat
+```
 
 3. O arquivo `.env` e extraido pelo script de setup a partir de um arquivo protegido por senha incluido no repositorio. Quando o script pedir, **digite a senha fornecida pelo professor**:
    - Os caracteres nao aparecem enquanto voce digita; isso e normal.
